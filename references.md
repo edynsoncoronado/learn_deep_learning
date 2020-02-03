@@ -13,4 +13,8 @@
 * https://www.youtube.com/watch?v=ghEmQSxT6tw [understanding deep neural networks]
 * https://www.youtube.com/watch?v=D69TBhtwhPI [introduction to convolutional networks]
 * https://medium.com/coinmonks/paper-review-of-googlenet-inception-v1-winner-of-ilsvlc-2014-image-classification-c2b3565a64e7 [GoogLeNet]
-
+* https://www.pyimagesearch.com/2019/11/25/human-activity-recognition-with-opencv-and-deep-learning/?utm_source=facebook&utm_medium=ad-25-11-2019&utm_campaign=25+November+2019+BP+-+Traffic&utm_content=Default+name+-+Traffic&fbid_campaign=6130205916446&fbid_adset=6130206036446&utm_adset=25+November+2019+BP+-+Email+List+-+Worldwide+-+18%2B&fbid_ad=6130206036646 [human activity recognition]
+* https://www.youtube.com/watch?v=FTr3n7uBIuE&amp=&t=14s [convolutional neural networks]
+* https://medium.com/machine-learning-world/convolutional-neural-networks-for-all-part-ii-b4cb41d424fd
+* https://www.youtube.com/watch?v=19AFe9NARyg&amp=&t=47s [convolutional neural networks]
+* https://www.youtube.com/watch?v=QyM8c8XK01g [neural networks]
