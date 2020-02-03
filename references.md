@@ -20,3 +20,10 @@
 * https://www.youtube.com/watch?v=QyM8c8XK01g [neural networks]
 * https://www.youtube.com/watch?v=6g4O5UOH304 [course tensorflow 2.0]
 * https://www.newworldai.com/deep-learning-self-driving-cars-2018-version-lecture-1/ [self driving ]
+* https://www.bbva.com/es/redes-neuronales-distribuidas-tensorflow-conclusiones/
+* https://www.youtube.com/watch?v=PmZ29Vta7Vc [opencv face recognition]
+* https://www.youtube.com/watch?v=ySbmdeqR0-4 [redes convolucionales]
+* https://medium.com/datos-y-ciencia/construye-tu-primer-clasificador-de-deep-learning-con-tensorflow-ejemplo-de-razas-de-perros-ed218bb4df89 [primer clasificador de imágenes]
+* https://planetachatbot.com/c%C3%B3mo-empezar-con-reconocimiento-de-imagen-y-redes-neuronales-convolucionales-en-5-minutos-7f651054dfd7
+* https://medium.com/datos-y-ciencia/introduccion-al-machine-learning-una-gu%C3%ADa-desde-cero-b696a2ead359
+* https://medium.com/@pedrofernandez95/participando-en-la-competencia-de-reconocimiento-de-d%C3%ADgitos-en-kaggle-55ce812ea65
