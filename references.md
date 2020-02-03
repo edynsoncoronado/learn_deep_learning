@@ -18,3 +18,5 @@
 * https://medium.com/machine-learning-world/convolutional-neural-networks-for-all-part-ii-b4cb41d424fd
 * https://www.youtube.com/watch?v=19AFe9NARyg&amp=&t=47s [convolutional neural networks]
 * https://www.youtube.com/watch?v=QyM8c8XK01g [neural networks]
+* https://www.youtube.com/watch?v=6g4O5UOH304 [course tensorflow 2.0]
+* https://www.newworldai.com/deep-learning-self-driving-cars-2018-version-lecture-1/ [self driving ]
