@@ -1,0 +1,9 @@
+# Referencias:
+* https://www.newworldai.com/category/artificial-intelligence/
+* https://github.com/practicalAI/practicalAI
+* https://github.com/rapidsai/jupyterlab-nvdashboard
+* https://github.com/rapidsai/jupyterlab-nvdashboard
+* https://es.wikipedia.org/wiki/CUDA
+* https://www.datasciencecentral.com/profiles/blogs/the-guide-to-learning-python-for-data-science-2
+* https://www.avances.ai/machine-learning-resena-espanol-simple/
+* https://github.com/BMW-InnovationLab
